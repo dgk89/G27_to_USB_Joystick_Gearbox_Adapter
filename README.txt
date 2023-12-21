@@ -1,0 +1,1 @@
+This project uses an Arduino (Uno, Nano or equivalent) to convert the signal from the Logitech G27 gearbox to a digital output to set the "buttons" of an USB generic joystick.

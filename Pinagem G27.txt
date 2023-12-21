@@ -1,0 +1,15 @@
+PINO 6 - Terra
+PINO 7 - 5V
+
+PINO 4 - eixo X
+
+PINO 8 - eixo Y
+
+
+1st gear - X:790 Y:300
+2nd gear - X:0 Y:289
+3rd gear - X:794 Y:513
+4th gear - X:0 Y: 517
+5th gear - X:844 Y:676
+6th gear - X:0 Y: 683
+Reverse gear - X:0 Y:710
